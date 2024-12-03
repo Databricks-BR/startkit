@@ -1,4 +1,4 @@
-<img src='https://github.com/Databricks-BR/startkit/raw/main/images/startkit_logo.png'></img>
+<img src='https://github.com/Databricks-BR/startkit/raw/main/images/startkit_head.png'></img>
 
 
 </br></br>
