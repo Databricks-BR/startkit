@@ -5,6 +5,19 @@
 -- COMMAND ----------
 
 -- MAGIC %md
+-- MAGIC %md
+-- MAGIC <!-- IMAGENS -->
+-- MAGIC <!-- etl_parquet.png -->
+-- MAGIC <!-- etl_oracle.png -->
+-- MAGIC <!-- etl_postgre_jdbc.png -->
+-- MAGIC <!-- etl_postgre_fed.png -->
+-- MAGIC <!-- etl_salesforce.png -->
+-- MAGIC
+-- MAGIC <img src="https://raw.githubusercontent.com/Databricks-BR/startkit/main/images/etl_salesforce.png">
+
+-- COMMAND ----------
+
+-- MAGIC %md
 -- MAGIC
 -- MAGIC ## Salesforce Rest API to Databricks
 -- MAGIC
